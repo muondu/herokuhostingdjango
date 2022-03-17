@@ -1,2 +1,2 @@
 # herokuhostingdjango
-Hosting a try django project
+Trying to host a django project using Heroku
